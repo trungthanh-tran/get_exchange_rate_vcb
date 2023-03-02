@@ -1,0 +1,4 @@
+selenium
+pandas
+html5lib
+wget
